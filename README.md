@@ -1,4 +1,3 @@
-#sql and python project
 A health and wellness database management system with a CLI created for a university class (specifics redacted for academic integrity reasons.)
 Done by members:
 Mackenzie Martins, 101228049
